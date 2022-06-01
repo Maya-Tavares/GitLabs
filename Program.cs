@@ -24,3 +24,10 @@ if (operacao == "Multiplicar")
 {
     Console.WriteLine(n1 * n2);
 }
+
+// dividir
+
+if (operacao == "Dividir")
+{
+    Console.WriteLine(n1 / n2);
+}
