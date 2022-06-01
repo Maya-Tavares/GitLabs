@@ -4,3 +4,4 @@ Calculadora com as operações:
 - Somar
 - Subtrair 
 - Multiplicar.
+- Dividir
