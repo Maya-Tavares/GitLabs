@@ -20,6 +20,8 @@ if (operacao == "Subtrair")
 
 // multiplicar
 
+Console.WriteLine("Obrigado por usar o programa.");
+
 if (operacao == "Multiplicar")
 {
     Console.WriteLine(n1 * n2);
